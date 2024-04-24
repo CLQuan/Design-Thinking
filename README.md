@@ -1,2 +1,2 @@
 # Design-Thinking
-<c2>yellow</c>
+<span style="color:red"> *some emphasized markdown text*</span>
