@@ -1,2 +1,2 @@
 # Design-Thinking
-<span style="color:red"> *some emphasized markdown text*</span>
+<span style="color:red"> some emphasized markdown text</span>
